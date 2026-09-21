@@ -1,0 +1,6 @@
+interface:
+  display_name: "Plain English Drafting"
+  short_description: "Draft, revise, and comment on English emails and contracts"
+  default_prompt: "Use $draft-plain-english to draft, revise, or comment on this English email, agreement, or clause using my Plain English rules."
+policy:
+  allow_implicit_invocation: true
